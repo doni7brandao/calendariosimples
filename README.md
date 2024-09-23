@@ -19,22 +19,28 @@ Crie os seguintes arquivos:
 <?php
 // Definindo os eventos
 $eventos = [
-    "2024-10-01" => [
+    "2024-09-02" => [
         [
             "titulo" => "Conferência de Tecnologia",
             "descricao" => "Uma conferência sobre as últimas inovações em tecnologia."
         ]
     ],
-    "2024-10-15" => [
+    "2024-09-15" => [
         [
             "titulo" => "Workshop de PHP",
             "descricao" => "Um workshop prático sobre desenvolvimento em PHP."
         ]
     ],
-    "2024-10-20" => [
+    "2024-09-18" => [
         [
             "titulo" => "Festival de Música",
             "descricao" => "Um festival com artistas renomados."
+        ]
+    ],
+    "2024-09-20" => [
+        [
+            "titulo" => "Encontro na Praça Agenor Pinheiro",
+            "descricao" => "Um encontro da juventude baixa-grandense."
         ]
     ]
 ];
